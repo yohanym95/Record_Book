@@ -1,7 +1,7 @@
 # Record_Book
 
 
-This project contain two page.they are login page and examination result page.
+This project contain two pages.they are login page and examination result page.
 
 
 
