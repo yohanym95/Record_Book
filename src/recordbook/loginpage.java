@@ -8,7 +8,7 @@ package recordbook;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 
-///////////////////////////////////////////////////////
+
 
 /**
  *
@@ -299,7 +299,7 @@ public class loginpage extends javax.swing.JFrame {
     }//GEN-LAST:event_jComboBox1ActionPerformed
 
     private void jTextField6ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jTextField6ActionPerformed
-        ////////// TODO add your handling code here:
+    //TODO add your handling code here:
     }//GEN-LAST:event_jTextField6ActionPerformed
 
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
